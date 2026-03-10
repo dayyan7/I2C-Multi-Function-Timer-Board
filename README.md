@@ -19,7 +19,7 @@ PCB layout, and manufacturing through JLCPCB — using KiCad.
 - [Usage](#usage)
 - [Design Philosophy](#design-philosophy)
 - [Images](#images)
-- [Coming Soon](#coming-soon)
+- [Physical Final Product](#physical-final-product)
 
 ---
 
