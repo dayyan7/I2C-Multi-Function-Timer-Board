@@ -58,8 +58,8 @@ I2C communication with the OLED, and GPIO control for every input and output on 
 
 | Reference | Component       | Value | Function                              |
 |-----------|-----------------|-------|---------------------------------------|
-| A1        | Arduino Nano ESP32 | —  | Main microcontroller                  |
-| J1        | OLED Connector  | 4-pin | I2C display (VCC / GND / SCL / SDA)  |
+| A1        | Arduino Nano ESP32 | —  | Microcontroller                       |
+| J1        | OLED Connector  | 4-pin | I2C display (VCC / GND / SCL / SDA)   |
 | D1        | LED             | Green | Flashes briefly when Start is pressed |
 | D2        | LED             | Red   | Flashes briefly when Stop is pressed  |
 | D3        | LED             | White | Power indicator, top-left corner      |
